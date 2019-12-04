@@ -36,5 +36,7 @@ class city {
      * @brief:  clear all the variable for next A* search
      */
     void clear();
+    /* deconstructor for city */
+    ~city();
 };
 #endif  // CITY_HPP

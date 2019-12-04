@@ -104,3 +104,9 @@ void city::clear() {
         it.second->prePoint = nullptr;
     }
 }
+/* deconstructor for city */
+city::~city() {
+    for (auto i = points.begin(); i != points.end(); ++i) {
+        delete (i->second);
+    }
+}
