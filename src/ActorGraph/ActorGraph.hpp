@@ -20,7 +20,8 @@
 using namespace std;
 
 /**
- * TODO: add class header
+ * @name: ActorGraph
+ * @msg:  the class of ActorGraph for read and write data
  */
 class ActorGraph {
   protected:
@@ -48,7 +49,7 @@ class ActorGraph {
      * @name:   readFile
      * @brief:  read input file from filename
      */
-    bool readFile(const char*  filename);
+    bool readFile(const char* filename);
     /**
      * @name:   writeFile
      * @brief: write result to the given file
