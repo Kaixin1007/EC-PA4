@@ -1,0 +1,3 @@
+(Warren)-->(CSE)-->(WarrenLectureHall)-->(PriceCenter)-->(Mandeville)-->(MainGym)-->(Revelle)
+(Warren)-->(CSE)-->(WarrenLectureHall)-->(PriceCenter)-->(Mandeville)-->(MainGym)
+(Revelle)-->(YorkHall)
